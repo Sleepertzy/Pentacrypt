@@ -1,0 +1,9 @@
+﻿venv/
+env/
+__pycache__/
+*.pyc
+license.key
+license.key.txt
+*.db
+*.sqlite3
+ngrok.exe

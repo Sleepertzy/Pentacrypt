@@ -1,0 +1,22 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1794290145.0879939,
+        "data": {
+            "info": "Genesis Block"
+        },
+        "previous_hash": "0",
+        "hash": "485142ac5cf1dee5da2ae121f1820aeb55482b851660d5b7960faef3bf61b472"
+    },
+    {
+        "index": 1,
+        "timestamp": 1794322242.3871243,
+        "data": {
+            "nama_aset": "ijazah ",
+            "pemilik": "wiwok",
+            "keterangan": "ijazah yang hilang"
+        },
+        "previous_hash": "485142ac5cf1dee5da2ae121f1820aeb55482b851660d5b7960faef3bf61b472",
+        "hash": "35fe03e880267922cbcfa43fa7bdad5c6dbe2bbb5b6dd76c00e71beaf0a1d012"
+    }
+]
