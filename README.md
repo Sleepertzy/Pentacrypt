@@ -4,7 +4,7 @@ Aplikasi Dashboard Kriptografi Terintegrasi berbasis Streamlit dengan arsitektur
 
 ---
 
-## 🔑 Fitur Utama
+## Fitur Utama
 
 1. **Layer 1 - Kunci Fisik (*Dual-Key Hardware*):**
    - Dongle USB Mouse (`VID_062A&PID_5918`) via WMI COM Threading, **ATAU**
@@ -15,12 +15,12 @@ Aplikasi Dashboard Kriptografi Terintegrasi berbasis Streamlit dengan arsitektur
 3. **Super Enkripsi Teks:** Kombinasi kriptografi klasik (Vigenère Cipher) dan modern (AES-256).
 4. **Enkripsi File:** Pengamanan berkas menggunakan algoritma berbeda dari modul teks.
 5. **Basis Data Terenkripsi (*Field-Level Encryption*):** Penyimpanan data rahasia ke MySQL (XAMPP) dalam wujud *ciphertext* AES (Fernet).
-6. **Steganografi Gambar:** Penyisipan pesan tersembunyi ke dalam citra menggunakan metode LSB (*Least Significant Bit*).
+6. **Steganografi Gambar:** Penyisipan pesan ataupun gambar tersembunyi ke dalam citra menggunakan metode LSB (*Least Significant Bit*).
 7. **Blockchain Ledger:** Pencatatan aset dan riwayat transaksi dengan hash berantai (SHA-256).
 
 ---
 
-## 🚀 Panduan Menjalankan Secara Lokal
+## Panduan Menjalankan Secara Lokal
 
 ### 1. Prasyarat Sistem
 - Windows OS (untuk deteksi modul hardware WMI)
